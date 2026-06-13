@@ -34,8 +34,12 @@ Product Overview: This project simulates a real-world platform where users can u
 🧠 Dynamic Technical & Behavioral Interview Generation
 
 📚 Personalized Interview Preparation Roadmaps
+
 🔐 Secure JWT Authentication & User Management
+
 📂 Resume Upload & Intelligent Content Extraction
+
 🖨️ ATS-Friendly PDF Resume Generation
+
 ⚡ Real-time AI Feedback & Career Insight
 
