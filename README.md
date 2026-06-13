@@ -58,9 +58,6 @@ An end-to-end, real-world platform designed to help job seekers automate their i
 ### 🤖 AI Interview Simulator
 * Technical Interview Questions
 * Behavioral Interview Questions
-* Role-Specific Question Generation
-* Experience-Level Based Customization
-* Company-Oriented Preparation Guidance
 
 ### 📚 Personalized Preparation Roadmap
 * Step-by-Step Interview Plan
@@ -76,15 +73,3 @@ An end-to-end, real-world platform designed to help job seekers automate their i
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally on your machine.
-
-### Prerequisites
-* Node.js (v18 or higher recommended)
-* A Google Gemini API Key
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
