@@ -1,8 +1,8 @@
 # AI-Powered Interview Prep & Resume Analyzer
 
-An end-to-end, real-world platform designed to help job seekers automate their interview preparation, audit their resumes against real job descriptions, and fix critical skill gaps using AI.
+An end-to-end, real-world platform designed to help job seekers automate their interview preparation, audit their resumes against real job descriptions, and fix critical skill gaps using AI. 
 
-Product Overview: This project simulates a real-world platform where users can upload their resumes, analyze job descriptions, and instantly detect critical skill gaps. It leverages AI to dynamically generate targeted technical and behavioral interview questions, while formulating a structured, step-by-step interview preparation plan and producing ATS-optimized resumes.
+> **Product Overview:** This project simulates a real-world platform where users can upload their resumes, analyze job descriptions, and instantly detect critical skill gaps. It leverages AI to dynamically generate targeted technical and behavioral interview questions, while formulating a structured, step-by-step interview preparation plan and producing ATS-optimized resumes.
 
 ---
 
@@ -23,23 +23,68 @@ Product Overview: This project simulates a real-world platform where users can u
 
 ---
 
-✨ Key Highlights
+## 🌟 Features
 
-🤖 AI-powered Resume Analysis & Skill Gap Detection
+### 🔐 Secure Authentication
+* User Registration & Login
+* JWT-Based Authentication
+* Protected API Endpoints
+* Secure Session Management
 
-📄 ATS Score Evaluation & Resume Optimization
+### 📄 Intelligent Resume Parsing
+* Upload Resume Documents
+* Automated Resume Text Extraction
+* Structured Data Processing
+* Resume Content Normalization
 
-🎯 Job Description Matching Engine
+### 🎯 Job Description Analysis
+* Analyze Real Job Descriptions
+* Match Resume Against Requirements
+* Detect Missing Technologies & Skills
+* Keyword Alignment Evaluation
 
-🧠 Dynamic Technical & Behavioral Interview Generation
+### 🧠 AI Skill Gap Detection
+* Identify Missing Technical Skills
+* Discover Framework & Tool Gaps
+* Highlight Improvement Areas
+* Generate Learning Recommendations
 
-📚 Personalized Interview Preparation Roadmaps
+### 📊 ATS Resume Optimization
+* ATS Compatibility Scoring
+* Resume Quality Assessment
+* Keyword Optimization Suggestions
+* Recruiter-Friendly Formatting Recommendations
 
-🔐 Secure JWT Authentication & User Management
+### 🤖 AI Interview Simulator
+* Technical Interview Questions
+* Behavioral Interview Questions
+* Role-Specific Question Generation
+* Experience-Level Based Customization
+* Company-Oriented Preparation Guidance
 
-📂 Resume Upload & Intelligent Content Extraction
+### 📚 Personalized Preparation Roadmap
+* Step-by-Step Interview Plan
+* Skill Improvement Recommendations
+* Learning Prioritization Strategy
+* Focus Areas Based on Job Requirements
 
-🖨️ ATS-Friendly PDF Resume Generation
+### 🖨️ Professional PDF Export
+* ATS-Friendly Resume Templates
+* Clean PDF Generation using Puppeteer
+* Download Optimized Resume
+* Production-Ready Formatting
 
-⚡ Real-time AI Feedback & Career Insight
+---
 
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+* Node.js (v18 or higher recommended)
+* A Google Gemini API Key
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
