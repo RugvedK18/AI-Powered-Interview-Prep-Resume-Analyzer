@@ -2,6 +2,8 @@
 
 An end-to-end, real-world platform designed to help job seekers automate their interview preparation, audit their resumes against real job descriptions, and fix critical skill gaps using AI.
 
+Product Overview: This project simulates a real-world platform where users can upload their resumes, analyze job descriptions, and instantly detect critical skill gaps. It leverages AI to dynamically generate targeted technical and behavioral interview questions, while formulating a structured, step-by-step interview preparation plan and producing ATS-optimized resumes.
+
 ---
 
 ## 🛠️ Tech Stack
