@@ -47,15 +47,14 @@ Product Overview: This project simulates a real-world platform where users can u
 
 ---
 
-## 🚀 Getting Started
+✨ Key Highlights
+🤖 AI-powered Resume Analysis & Skill Gap Detection
+📄 ATS Score Evaluation & Resume Optimization
+🎯 Job Description Matching Engine
+🧠 Dynamic Technical & Behavioral Interview Generation
+📚 Personalized Interview Preparation Roadmaps
+🔐 Secure JWT Authentication & User Management
+📂 Resume Upload & Intelligent Content Extraction
+🖨️ ATS-Friendly PDF Resume Generation
+⚡ Real-time AI Feedback & Career Insight
 
-Follow these steps to run the project locally on your machine.
-
-### Prerequisites
-*   Node.js (v18 or higher recommended)
-*   A Google Gemini API Key
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
